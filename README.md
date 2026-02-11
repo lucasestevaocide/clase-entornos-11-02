@@ -3,3 +3,5 @@
 ## Nueva feature-animal creada
 
 ### Visualizar arbol de commits
+
+#### Feature personaje
